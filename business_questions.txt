@@ -1,0 +1,18 @@
+USED-CAR MARKET ANALYSIS
+
+Analysis Objective
+Analyse 6,000+ used-car listings to understand pricing, availability, and key vehicle characteristics, and derive evidence-based insights.
+
+Business Questions — Excel Analysis
+1. MARKET LANDSCAPE
+- How many cars are available per year?
+- What is the distribution of cars by transmission type?
+- Which owner type has the most listings, and what is its average selling price?
+
+2. PRICING ANALYSIS
+- What is the average selling price of used cars by brand?
+- Which year has the highest average selling price?
+
+3. VEHICLE ECONOMICS
+- What is the average mileage (kmpl/km/kg) by fuel type?
+- What is the relationship between engine size (binned) and price?
