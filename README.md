@@ -97,4 +97,6 @@ Used-Car-Market-Analysis/
 ├── used_car_market_analysis.ipynb
 ├── Excel Solutions.ipynb
 ├── used_cars.csv
+├── used_cars.xlsx
+├── business_questions.txt
 └── README.md
